@@ -1,6 +1,4 @@
 # RENTAL MOBIL
-# 
-
 
 print("============ RENTAL MOBIL ===========")
 print("TEMPAT RENTAL MOBIL TERMURAH DI DUNIA")
