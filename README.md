@@ -10,4 +10,4 @@ Program ini membantu untuk mengelola sistem rental mobil. Dengan menggunakan Pyt
 ---
 
 # FlowChart
-!(FlowChart)[]
+!(Flowchart)[]
